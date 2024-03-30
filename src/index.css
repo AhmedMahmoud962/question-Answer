@@ -1,0 +1,24 @@
+body
+{
+  margin: 0;
+}
+
+.font
+{
+  font-size: 15px;
+}
+
+.btn-color
+{
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  background-color:#224f61;
+  padding: 8px;
+
+}
+.btn-color:hover
+{
+  color:rgb(148, 148, 162);
+ 
+}
